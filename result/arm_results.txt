@@ -1,0 +1,3 @@
+platform,impl,time_us
+arm_aarch64,serial,132607
+arm_aarch64,neon,157382
