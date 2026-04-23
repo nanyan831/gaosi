@@ -1,0 +1,14 @@
+
+ Performance counter stats for './gauss_sse 1024 serial 3':
+
+       342,702,054      cycles                                                                  (77.36%)
+                 0      instructions                     #    0.00  insn per cycle              (75.04%)
+                 0      cache-references                                                        (72.95%)
+                 0      cache-misses                                                            (74.65%)
+
+       0.140392214 seconds time elapsed
+
+       0.127373000 seconds user
+       0.013063000 seconds sys
+
+

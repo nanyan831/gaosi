@@ -1,0 +1,14 @@
+
+ Performance counter stats for './gauss_sse 1024 ssea 3':
+
+       338,172,906      cycles                                                                  (74.65%)
+                 0      instructions                     #    0.00  insn per cycle              (73.89%)
+                 0      cache-references                                                        (76.00%)
+                 0      cache-misses                                                            (75.46%)
+
+       0.138396771 seconds time elapsed
+
+       0.126867000 seconds user
+       0.011533000 seconds sys
+
+
